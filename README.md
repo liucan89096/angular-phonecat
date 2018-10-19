@@ -1,5 +1,7 @@
 # AngularJS Phone Catalog Tutorial Application
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/nerdmax/angular-phonecat.svg)](https://greenkeeper.io/)
+
 
 ## Overview
 
